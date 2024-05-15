@@ -11,7 +11,8 @@
 
 <h1>Minha Experiencia 🎒🥾</h1>
 <p>
-Estou no mundo da programação ja faz 5 anos, comecei com JS até um bom tempo, depois fui guiado pela minha curiosidade de saber como funciona uma IA e então me deparei com <strong >Python</strong>. E até então nunca mais parei de programar nela, e aprender suas bibliotecas como Scikit-Learn, TensorFlow, PyTorch, Flet, Tkinter e Pandas, tudo isso eu aprendi através da minha curiosidade e determinação.
+Estou no mundo da programação ja faz 5 anos, comecei com JS até um bom tempo, depois fui guiado pela minha curiosidade de saber como funciona uma IA e então me deparei com <strong >Python</strong>. E até então nunca mais parei de programar nela e aprender suas bibliotecas como Scikit-Learn, TensorFlow, PyTorch, Flet, Tkinter e Pandas, tudo isso eu aprendi através da minha curiosidade e determinação.
 </p>
 
 <p>Não vou parar de criar e aprender com essa linguagem.</p>
+<p><strong>Entrando no Mercado de Trabalho...</strong></p>
