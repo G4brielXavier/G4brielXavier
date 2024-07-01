@@ -1,7 +1,7 @@
-<p>Olá, Meu nome é Gabriel Xavier, tenho 18 Anos, tenho experiencias em programação há mais de 6 anos, Com JavaScript e Python, mais meu foco para JS acabou e meu foco agora é sair do Front-end e ir para a camada mais profunda do Back-end ao lado do Python.</p>
-<p>Estou estudando e praticando <code>Python</code> por 6 meses, usando uma Roadmap para facilitar cada assunto necessario para aprender, quero focar no Back-end, DataScience, Machine Learning, Deep Learning, desejo me especializar na área de Inteligência Artificial.</p>
+<p>Hello, My name is Gabriel Xavier, I'm 18 years old, I have programming experience for over 6 years, with JavaScript and Python, but my focus on JS is over and my focus now is to leave the Front-end and go to the deeper layer Back-end alongside Python.</p>
+<p>I have been studying and practicing <code>Python</code> for 6 months, using a Roadmap to facilitate each subject necessary to learn, I want to focus on Back-end, DataScience, Machine Learning, Deep Learning, I want to specialize in the area of ​​Artificial Intelligence .</p>
 
-<p>Deus vai na Frente de Tudo, Amém.</p>
+<p>God goes before everything, Amen.</p>
 
 <div>
 <a href="https://github.com/0nlySpirit">
