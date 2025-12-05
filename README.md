@@ -1,8 +1,12 @@
-### Hi, I'm Gabriel Xavier 
+### Hey! I'm Gabriel Xavier
 
-A Fullstack Developer, coding since 2020.
+*Writing codes since 2020.*
 
-I like to use my creativity creating storys and characters, so I'm Writter and Mangaka.
+I am **Christian** **Writter**, **Artist**, **Programmer** and **Game Developer**. <br>
+I like to use my ***Creativity*** to create things as praise for God.
 
 **Porfolio**: https://dotxavierket.space <br>
 **My Dev Mentors**: https://devlegends.vercel.app
+
+
+: ]
