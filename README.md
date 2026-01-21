@@ -1,9 +1,9 @@
 ### Hey! I'm Gabriel Xavier
 
-*Writing codes since 2020.*
+*Writing code since 2020.*
 
-I am **Christian** **Writter**, **Artist**, **Programmer** and **Game Developer**. <br>
-I like to use my ***Creativity*** to create things as praise for God.
+**Christian** **writer**, **artist**, **programmer** and **game developer**. <br>
+I use my ***creativity*** to build things as an act of praise to God..
 
 **Porfolio**: ☕Coding... <br>
 **My Dev Mentors**: https://devlegends.vercel.app
