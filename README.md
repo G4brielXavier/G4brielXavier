@@ -2,7 +2,7 @@
 
 *Writing code since 2020.*
 
-**Christian** **writer**, **artist**, **programmer** and **game developer**. <br>
+**Christian** **writer**, **artist**, **fullstack/software developer** and **game developer**. <br>
 I use my ***creativity*** to build things as an act of praise to God..
 
 **Porfolio**: ☕Coding... <br>
