@@ -9,7 +9,7 @@ I use my ***creativity*** to build things as an act of praise to God..
 
 ### Main projects
 **My Dev Mentors**: https://devlegends.vercel.app <br>
-**Tequel-rs**: https://crates.io/crates/tequel-rs/0.2.1 <br>
+**Tequel-rs**: https://crates.io/crates/tequel-rs <br>
 **Hova DSL**: https://hovaforge.vercel.app
 
 
