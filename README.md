@@ -10,8 +10,10 @@ I use my ***creativity*** to build things as an act of praise to God and solutio
 
 ### Main projects
 **Tequel-rs**: https://crates.io/crates/tequel-rs <br>
-**Hova DSL**: https://hovaforge.vercel.app <br>
 **Asto DSL**: https://astodsl.vercel.app <br>
+**MyWay CLI**: https://crates.io/crates/myway-cli <br>
+**Hova DSL**: https://hovaforge.vercel.app <br>
+
 
 
 <br>
