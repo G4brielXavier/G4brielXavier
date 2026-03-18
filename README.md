@@ -2,8 +2,8 @@
 
 *Writing code since 2020.*
 
-**Christian** **writer**, **artist**, **fullstack/software developer** and **game developer**. <br>
-I use my ***creativity*** to build things as an act of praise to God..
+**Christian** **writer**, **artist**, **fullstack, software developer** and **game developer**. <br>
+I use my ***creativity*** to build things as an act of praise to God and solutions and ideas to *Worldbuild*.
 
 **Porfolio Web**: ☕Still Coding... <br>
 **My Dev Mentors**: https://devlegends.vercel.app <br>
