@@ -6,7 +6,7 @@ Writing code since 2020. I use my creativity to build high-performance tools as 
 ## 🛠️ Core Tech Stack
 - **Language:**
   - Rust (Deeply focused on SIMD, Memory Safety, Tokenizer, Parser & Unsafe optimizations)
-- **Specialties:** Cryptography, DSL design, CLI Tooling
+- **Specialties:** Cryptography, DSL design, CLI Tooling, UI/UX, 
 - **Environments**:
   - Hyper/Axum (Backend)
   - Next.js/React (Frontend)
