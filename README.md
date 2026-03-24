@@ -7,7 +7,7 @@ I use my ***creativity*** to build things as an act of praise to God and solutio
 
 **Porfolio Web**: ☕Still Coding... <br>
 **My Dev Mentors**: https://devlegends.vercel.app <br>
-**Crates.io**: [https://devlegends.vercel.app](https://crates.io/users/G4brielXavier) <br>
+**Crates.io**: https://crates.io/users/G4brielXavier <br>
 
 ### Main projects
 **Tequel-rs**: https://crates.io/crates/tequel-rs <br>
