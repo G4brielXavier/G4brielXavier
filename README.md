@@ -1,7 +1,7 @@
 ## Hey! I'm Gabriel Xavier
 **Systems Developer | Cryptographic Engineering | FullStack Developer | Worldbuilder | Storyteller**
 
-Writing code since 2020. I use my creativity to build high-performance tools as an act of praise to God. Currently focused on **low-level systems** and **compiler design**.
+I'm 19 years old, writing code since 2020. I use my creativity to build high-performance tools, writting stories and drawing as an act of praise to God. Currently focused on **low-level systems** and **compiler design**.
 
 ## 🛠️ Core Tech Stack
 - **Language:**
