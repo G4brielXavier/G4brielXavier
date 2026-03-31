@@ -7,7 +7,7 @@ I'm 19 years old, writing code since 2020. I use my creativity to build high-per
 
 ## 🛠️ Core Tech Stack
 - **Language:**
-  - Rust (Deeply focused on SIMD, Memory Safety, Tokenizer, Parser & Unsafe optimizations)
+  - Rust (Deeply focused on SIMD/AVX2, Memory Safety, Tokenizer, Parser, CLIs & Unsafe optimizations)
   - JS/TS (Frontend Architecture, UI/UX, clean, modern and minimalist)
 - **Specialties:** Cryptography, DSL design, CLI Tooling, UI/UX, 
 - **Environments**:
