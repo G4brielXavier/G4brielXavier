@@ -14,8 +14,6 @@ I'm 19 years old, writing code since 2020. I use my creativity to build high-per
   - Hyper/Axum (Backend)
   - Next.js/React (Frontend)
   - Unity (Game Dev)
- 
-## Projects
 
 ## 🔗 Links & Portfolio
 - Crates.io: [GabrielXavier](https://crates.io/users/G4brielXavier?sort=downloads)
