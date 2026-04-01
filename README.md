@@ -19,6 +19,7 @@ I'm 19 years old, writing code since 2020. I use my creativity to build high-per
 - Crates.io: [GabrielXavier](https://crates.io/users/G4brielXavier?sort=downloads)
 - Dev Mentors: [DevLegends](https://devlegends.vercel.app)
 - Web Portfolio: Still Coding...
+- E-mail: dotxavket@gmail.com
 
 
 ✝️📖 2030-2040: Purpose Driven.
