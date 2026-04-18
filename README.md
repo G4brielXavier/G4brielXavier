@@ -1,25 +1,22 @@
 ## Hey! I'm Gabriel Xavier
-**Systems Developer | Cryptographic Engineering | FullStack Developer | Worldbuilder | Storyteller**
 
-I'm 19 years old, writing code since 2020. I use my creativity to build high-performance tools, writting stories and drawing as an act of praise to God. Currently focused on **low-level systems** and **compiler design**.
+19-year-old developer specializing in high-performance systems and low-level engineering. <br>
+
+I build tools focused on performance and security. <br>
+
+Creating projects and ideas that help me grow and solve problems.
 
 > Creator of [Tequel](https://github.com/G4brielXavier/Tequel), [Olam](https://github.com/G4brielXavier/Olam), [Emet](https://github.com/G4brielXavier/Emet), [MyWayCLI](https://github.com/G4brielXavier/MyWayCli), [Asto DSL](https://github.com/G4brielXavier/Asto) and [Hova DSL](https://github.com/G4brielXavier/Hova)
 
-## 🛠️ Core Tech Stack
-- **Language:**
-  - Rust (Deeply focused on SIMD/AVX2, Memory Safety, Tokenizer, Parser, CLIs & Unsafe optimizations)
-  - JS/TS (Frontend Architecture, UI/UX, clean, modern and minimalist)
-- **Specialties:** Cryptography, DSL design, CLI Tooling, UI/UX
-- **Environments**:
-  - Hyper/Axum (Backend)
-  - Next.js/React (Frontend)
-  - Unity (Game Dev)
+## Technical Skills
+- **Systems:** Rust (SIMD/AVX2, Memory Safety, Unsafe-optimization)
+- **Compiler Design:** Tokenizers, Parser, AST manipulation, Intepreters
+- **Architecture:** Backend with Axum, Minimalist Frontend with React & Next.js
 
-## 🔗 Links & Portfolio
+## Links
 - Crates.io: [GabrielXavier](https://crates.io/users/G4brielXavier?sort=downloads)
 - Dev Mentors: [DevLegends](https://devlegends.vercel.app)
-- Web Portfolio: Still Coding...
 - E-mail: dotxavket@gmail.com
 
 
-✝️📖 2030-2040: Purpose Driven.
+✝️📖 2030-2040
