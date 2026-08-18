@@ -6,8 +6,6 @@ I build tools focused on performance and security. <br>
 
 Creating projects and ideas that help me grow and solve problems.
 
-> Creator of [Tequel](https://github.com/G4brielXavier/Tequel), [Olam](https://github.com/G4brielXavier/Olam), [Emet](https://github.com/G4brielXavier/Emet), [MyWayCLI](https://github.com/G4brielXavier/MyWayCli), [Asto DSL](https://github.com/G4brielXavier/Asto) and [Hova DSL](https://github.com/G4brielXavier/Hova)
-
 ## Technical Skills
 - **Systems:** Rust (SIMD/AVX2, Memory Safety, Unsafe-optimization)
 - **Compiler Design:** Tokenizers, Parser, AST manipulation, Intepreters
